@@ -8,7 +8,7 @@ any search anywhere.
 There is no input data (such as games), the network plays against an older version of
 itself to get better at the game.
 
-There is a baseline Deep Learning solver for Hex we are trying to improve upon https://arxiv.org/abs/2104.03113
+There is a description of another baseline Deep Learning solver for Hex we are trying to improve upon https://arxiv.org/abs/2104.03113 (code: https://github.com/andyljones/boardlaw )
 
 # Setup
 
