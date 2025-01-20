@@ -8,7 +8,7 @@ any search anywhere.
 There is no input data (such as games), the network plays against an older version of
 itself to get better at the game.
 
-Here is a description of another baseline Deep Learning solver for Hex we are trying to improve upon https://arxiv.org/abs/2104.03113 (code: https://github.com/andyljones/boardlaw )
+Here is a description of another baseline Deep Learning solver for Hex we are trying to improve upon https://arxiv.org/abs/2104.03113 (code: https://github.com/andyljones/boardlaw ). This work is notable for independently discoveing the test-time scaling effects similar to those used in OpenAI o1, o3 models.
 
 # Setup
 
