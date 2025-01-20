@@ -8,6 +8,8 @@ any search anywhere.
 There is no input data (such as games), the network plays against an older version of
 itself to get better at the game.
 
+Here is a baseline Deep Learning solver for Hex we are trying to improve upon https://arxiv.org/abs/2104.03113
+
 # Setup
 
 The commands described below works perfectly for Ubuntu systems, as UL IMCS servers are
